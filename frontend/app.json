@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "ReadLog",
+    "slug": "readlog",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "readlog",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.readlog.dev"
+    },
+    "android": {
+      "package": "com.readlog.dev",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#2D4A3E"
+      },
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "@react-native-community/datetimepicker",
+      "expo-image-picker"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "6455e0b4-cbcf-4719-a81a-04960abbd236"
+      }
+    }
+  }
+}
