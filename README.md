@@ -70,8 +70,7 @@
 
 <img src="docs/screenshots/mypage.png" width="280" alt="마이페이지 — 프로필, 활동 탭" />
 
-> 위 스크린샷 이미지 파일은 `docs/screenshots/` 아래에 다음 이름으로 저장해야 표시됩니다:
-> `home.png`, `my-library.png`, `progress-input.png`, `sns-share.png`, `group-list.png`, `group-home.png`, `comments.png`, `mypage.png`
+
 
 ---
 
